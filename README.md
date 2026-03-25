@@ -23,21 +23,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JocsanPerezC&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JocsanPerezC&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-
----
 
 ## 📊 GitHub Stats
 
