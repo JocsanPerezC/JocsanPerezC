@@ -4,13 +4,13 @@
 
 ---
 
-Computer Science student at **TEC** — Cartago, Costa Rica  
-Junior developer open to learning more languages and technologies  
-Reach me at jocsancoto@gmail.com  
+🎓 Computer Science student at **TEC** — Cartago, Costa Rica  
+💻 Junior developer open to learning more languages and technologies  
+📬 Reach me at jocsancoto@gmail.com  
 
 ---
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,7 +23,23 @@ Reach me at jocsancoto@gmail.com
 
 ---
 
-## GitHub Stats
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JocsanPerezC&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JocsanPerezC&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JocsanPerezC&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -32,7 +48,7 @@ Reach me at jocsancoto@gmail.com
 
 ---
 
-## Connect with me
+## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jocsan-pérez-coto-647771273/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jocsan_pc/)
