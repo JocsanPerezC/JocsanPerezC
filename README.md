@@ -6,7 +6,7 @@
 
 🎓 Computer Science student at **TEC** — Cartago, Costa Rica  
 💻 Junior developer open to learning more languages and technologies  
-📬 Reach me at jocsancoto@gmail.com  
+📬 Contact me by jocsancoto@gmail.com  
 
 ---
 
