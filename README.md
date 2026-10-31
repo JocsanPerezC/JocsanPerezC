@@ -14,7 +14,7 @@
 - 🎓 Computer Science student at **Tecnológico de Costa Rica** · Cartago, Costa Rica
 - 🤟 Programmer on **[PIELS](https://www.inclutec.org/welcome)** at Inclutec, turning Spanish text into Costa Rican Sign Language (LESCO) with an animated avatar
 - 🛠️ I build complete products, from the interface to the database, and put them online
-- 🌱 Open to internships, junior roles and freelance projects
+- 🌱 Always learning and open to new opportunities
 
 ### Featured projects
 
